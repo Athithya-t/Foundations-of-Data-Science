@@ -1,3 +1,2 @@
 # Fundamentals-of-Data-Science
-
-</br>Fundamentals of Data Science assignments
+Fundamentals of Data Science assignments
